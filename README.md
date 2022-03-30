@@ -20,7 +20,6 @@
     <h1>
       Redes Sociais
     </h1>
-      ### Redes Sociais
 <div style="display: flex">
   <a href="https://www.instagram.com/brunosaliba_/" style="margin-right: 5px;"><img style="width: 35px; height: 35px;" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"/></a>
   <a href="https://www.linkedin.com/in/bruno-saliba/" style="margin-right: 5px;"><img style="width: 35px; height: 35px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
