@@ -14,7 +14,7 @@
     utilizando GDAL, QGis e outras ferramentas.
   </p>
   <p>
-    Tenho conhecimento em diversas bibliotecas e alguns frameworks de Python. E <strong>MUITA VONTADE</strong> de aprender e conhecer coisas novas.
+    Tenho <strong>MUITA VONTADE</strong> de aprender e conhecer tecnologias e coisas novas.
   </p>
   <div align="center">
     <h1>
