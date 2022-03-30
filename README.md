@@ -1,12 +1,12 @@
 <div>
   <h1>
-    Bem vindo ao meu GitHub
+    Bem vindo ao meu GitHub 👋
   </h1>
   <h3>
-     Está em construção
+     🚧 Está em construção 🚧
   </h3> 
   <p>
-    Olá, me chamo <strong>Bruno Saliba!</strong>
+    Olá, me chamo <strong>Bruno Saliba</strong>.
   </p>
   <p>
     Graduando em Sistemas de informação na Universidade Anhembi Morumbi,
