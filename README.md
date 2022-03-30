@@ -3,7 +3,7 @@
     Bem vindo ao meu GitHub - Está em construção
   </h1>
   <p>
-    Olá, sou o <strong>Bruno Saliba!</strong>
+    Olá, me chamo <strong>Bruno Saliba!</strong>
   </p>
   <p>
     Graduando em Sistemas de informação na Universidade Anhembi Morumbi,
@@ -11,7 +11,7 @@
     utilizando GDAL, QGis e outras ferramentas.
   </p>
   <p>
-    Tenho conhecimento em diversas bibliotecas e alguns frameworks de Python. E <strong>MUITA VONTADE </strong> de conhecer coisas novas.
+    Tenho conhecimento em diversas bibliotecas e alguns frameworks de Python. E <strong>MUITA VONTADE</strong> de conhecer coisas novas.
   </p>
   <div align="center">
     <h1>
