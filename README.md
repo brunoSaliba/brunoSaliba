@@ -3,7 +3,7 @@
     Bem vindo ao meu GitHub 👋
   </h1>
   <h3>
-     🚧 Está em construção 🚧
+     🚧 Em construção 🚧
   </h3> 
   <p>
     Olá, me chamo <strong>Bruno Saliba</strong>.
