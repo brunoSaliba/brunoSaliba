@@ -2,9 +2,9 @@
   <h1>
     Bem vindo ao meu GitHub
   </h1>
-  <h2>
+  <h3>
      Está em construção
-  </h2> 
+  </h3> 
   <p>
     Olá, me chamo <strong>Bruno Saliba!</strong>
   </p>
